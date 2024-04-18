@@ -1,4 +1,4 @@
-package Gato;
+package Clase_5.Gato;
 
 public class Gato {
     // atributos de gato

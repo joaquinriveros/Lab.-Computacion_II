@@ -1,4 +1,4 @@
-package Excepciones1.ExcepcionesPropias;
+package Clase_5.EjemplosExcepciones.ExcepcionesPropias;
 
 import java.util.Scanner;
 

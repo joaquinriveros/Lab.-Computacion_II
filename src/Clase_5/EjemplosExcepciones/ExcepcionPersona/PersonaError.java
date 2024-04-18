@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Excepciones1.ExcepcionPersona;
+package Clase_5.EjemplosExcepciones.ExcepcionPersona;
 
 /**
  *

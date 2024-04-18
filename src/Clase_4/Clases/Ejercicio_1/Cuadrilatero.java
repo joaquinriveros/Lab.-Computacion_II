@@ -2,7 +2,7 @@ package Clase_4.Clases.Ejercicio_1;
 
 public class Cuadrilatero extends Poligono{
 
-    //Construuctor
+    //Constructor
     public Cuadrilatero() {
         super(4);
     }

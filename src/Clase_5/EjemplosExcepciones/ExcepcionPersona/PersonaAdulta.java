@@ -1,4 +1,4 @@
-package Excepciones1.ExcepcionPersona;
+package Clase_5.EjemplosExcepciones.ExcepcionPersona;
 
 public class PersonaAdulta {
 

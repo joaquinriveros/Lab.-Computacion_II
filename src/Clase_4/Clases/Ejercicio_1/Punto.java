@@ -29,6 +29,4 @@ public class Punto {
         this.y = y;
     }
 
-    //Metodos
-
 }
