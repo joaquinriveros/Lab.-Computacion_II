@@ -1,4 +1,4 @@
-package com.pruebas.proyecto;
+package Clase_6.ProyectoJlog4.src.com.pruebas.proyecto;
 
 import java.util.logging.ConsoleHandler;
 import java.util.logging.FileHandler;
