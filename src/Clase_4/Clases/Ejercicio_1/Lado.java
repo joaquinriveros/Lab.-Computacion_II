@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Lado {
     //Atributos
-    private Punto[] puntos; // Relacion de Composición
+    private Punto[] puntos; // Relacion de Compocicion
 
 
     //Constructor

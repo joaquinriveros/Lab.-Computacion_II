@@ -29,4 +29,6 @@ public class Poligono extends Figura{
     }
 
 
+    //Metodos
+
 }
