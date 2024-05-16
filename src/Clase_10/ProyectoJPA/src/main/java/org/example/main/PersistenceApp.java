@@ -17,7 +17,7 @@ public class PersistenceApp {
             entityManager.getTransaction().begin();
 
             /*
-            Cliente cliente = new Cliente("Jose","Fausti",43417393);
+            Cliente cliente = new Cliente("Joaquin","Riveros",44538188);
             Domicilio domicilio = new Domicilio("Callejon Fernandez",947);
             cliente.setDomicilio(domicilio);
             domicilio.setCliente(cliente);
